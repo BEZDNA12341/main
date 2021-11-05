@@ -11,13 +11,13 @@
 
 
 В результате тестирования выявлены следующие дефекты:
-[Выдает неверный расчет итогового значения при пополнении счёта VIP-клиента](https://github.com/BEZDNA12341/javva/issues/1)
+[Выдает неверный расчет итогового значения при пополнении счёта VIP-клиента](https://github.com/BEZDNA12341/main/issues/1#issue-1046153965)
 
 ## Описание процесса тестирования
 
 
 В качестве тестовых данных использовались данные:
-* [Ссылка на источник]( https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:) 
+* [Ссылка на источник]( https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md) 
 
 
 public class Main {
